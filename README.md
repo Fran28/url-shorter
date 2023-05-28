@@ -45,3 +45,9 @@ Body:
 }
 
 Devolvera la url acortada. Requiere el token generado por login o registro.
+
+## TEST
+
+Se prueba de manera automatica la creacion de usuario, y el acceso a la pagina de generacion de urls. Para esto se debe correr el comando: 
+
+--php artisan test
